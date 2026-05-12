@@ -9,7 +9,7 @@
  <!-- Stats Section -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kattaravii&color=yellow)](https://github.com/kattaravii)
-[![Gmail](https://img.shields.io/badge/Gmail-happiestravi315@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:happiestravi315@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kattaravi199@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kattaravi199@gmail.com)
 
 </div>
 
